@@ -17,8 +17,7 @@
 
 ## ⚡ Technologies I Use
 
-### **Hard Skills:**
-- ➢ **Programming & Data Analysis Tools**:  
+### **Programming & Data Analysis Tools**:  
   <div align="center">
   <table align="center">
       <tr>
