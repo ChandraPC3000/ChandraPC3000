@@ -1,8 +1,8 @@
 # Hi there, I'm Chandra Putra Ciptaningtyas 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=ChandraPC3000&color=green)  
 [![Website](https://img.shields.io/website?label=chandrapc3000&style=for-the-badge&url=https%3A%2F%2Fchandra-portfolio-site.netlify.app)](https://chandra-portfolio-site.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-putra-ciptaningtyas/)  
-[![Instagram Follow](https://img.shields.io/badge/Instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ciptaning.chan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-putra-ciptaningtyas/)  
+[![Instagram Follow](https://img.shields.io/badge/Instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ciptaning.chan)  
 
 ## I'm an Aspiring Data Scientist, Machine Learning and AI Enthusiast, and a Fresh Graduate in Statistics
 
