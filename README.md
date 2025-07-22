@@ -90,7 +90,7 @@
   <table align="center">
       <tr>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/scikit-learn.png" width="65px"/>
+              <img src="assets/icons/scikitlearn.png" width="65px"/>
               <br /> Scikit-learn
           </td>
           <td align="center" width="140" height="112.43">
