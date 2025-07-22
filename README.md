@@ -17,7 +17,7 @@
 
 ## ⚡ Technologies I Use
 
-### **Programming & Data Analysis Tools**:  
+### **Programming & Data Analysis Tools:**  
   <div align="center">
   <table align="center">
       <tr>
@@ -84,7 +84,6 @@
   </div>
 
 ### **Data Science & Machine Learning:**
-- ➢ **Libraries/Tools**:  
   <div align="center">
   <table align="center">
       <tr>
@@ -142,8 +141,7 @@
   </table>
   </div>
 
-### **Data Analysis & Visualization:**
-- ➢ **Tools**:  
+### **Data Analysis & Visualization:** 
   <div align="center">
   <table align="center">
       <tr>
