@@ -21,31 +21,31 @@
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Python-logo-notext.svg" width="65px"/>
+            <img src="assets/icons/python.jpeg" width="65px"/>
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="65px"/>
+            <img src="assets/icons/cpp.png" width="65px"/>
             <br /> C++
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/R_logo.svg" width="65px"/>
+            <img src="assets/icons/r-logo.png" width="65px"/>
             <br /> R
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/TensorFlow_logo.svg" width="65px"/>
+            <img src="assets/icons/tensorflow.png" width="65px"/>
             <br /> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PyTorch_logo.png" width="65px"/>
+            <img src="assets/icons/pytorch.png" width="65px"/>
             <br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Scikit_learn_logo.svg" width="65px"/>
+            <img src="assets/icons/scikit-learn.png" width="65px"/>
             <br /> Scikit-learn
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="https://fastapi.tiangolo.com/img/logo.png" width="65px"/>
+            <img src="assets/icons/fastapi.png" width="65px"/>
             <br /> FastAPI
         </td>
     </tr>
