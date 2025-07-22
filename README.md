@@ -111,12 +111,12 @@
               <img src="assets/icons/matplotlib.png" width="65px"/>
               <br /> Matplotlib
           </td>
+      </tr>
+      <tr>
           <td align="center" width="140" height="112.43">
               <img src="assets/icons/xgboost.png" width="65px"/>
               <br /> XGBoost
           </td>
-      </tr>
-      <tr>
           <td align="center" width="140" height="112.43">
               <img src="assets/icons/seaborn.png" width="65px"/>
               <br /> Seaborn
