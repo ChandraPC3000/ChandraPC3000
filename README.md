@@ -27,11 +27,11 @@
               <br /> Python
           </td>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/r-logo.png" width="65px"/>
+              <img src="assets/icons/R.png" width="65px"/>
               <br /> R
           </td>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/sql.png" width="65px"/>
+              <img src="assets/icons/SQL.png" width="65px"/>
               <br /> SQL
           </td>
           <td align="center" width="140" height="112.43">
