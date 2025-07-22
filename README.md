@@ -11,7 +11,7 @@
 * 🌱 I’m passionate about **Data Science**, **Machine Learning**, **Deep Learning**, and **AI** technologies.
 * 📚 I’m actively contributing to open-source projects and looking for more collaboration opportunities in data science and machine learning.
 * 🥅 2025 Goals: Further deepen my expertise in **Quantum Machine Learning**, **Time Series Analysis**, and **Natural Language Processing**.
-* ⚡ **Fun fact**: When I'm not coding, I enjoy watching football, keeping up with football trends, cheering for **Chelsea FC**, exploring nature photography, building things, and reading biography books to learn from inspiring life stories.
+* 🍿 **Fun fact**: When I'm not coding, I enjoy watching football, keeping up with football trends, cheering for **Chelsea FC**, exploring nature photography, building things, and reading biography books to learn from inspiring life stories.
 
 ---
 
