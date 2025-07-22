@@ -4,14 +4,14 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-putra-ciptaningtyas/)  
 [![Instagram Follow](https://img.shields.io/badge/Instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ciptaning.chan)
 
-## I'm a Data Scientist, Machine Learning Enthusiast, and Developer
+## I'm an Aspiring Data Scientist, Machine Learning and AI Enthusiast, and a Fresh Graduate in Statistics
 
 ---
 * 🔭 I’m currently working as a **Data Science Intern** at [Codveda Technologies](https://www.codveda.com), where I apply machine learning models to solve real-world problems.
 * 🌱 I’m passionate about **Data Science**, **Machine Learning**, **Deep Learning**, and **AI** technologies.
-* 📚 I’m actively contributing to open-source projects and looking for more collaboration opportunities in machine learning and data science.
+* 📚 I’m actively contributing to open-source projects and looking for more collaboration opportunities in data science and machine learning.
 * 🥅 2025 Goals: Further deepen my expertise in **Quantum Machine Learning**, **Time Series Analysis**, and **Natural Language Processing**.
-* ⚡ Fun fact: When I'm not coding, I enjoy exploring new design trends, contributing to open-source projects, and mentoring aspiring data scientists.
+* ⚡ **Fun fact**: When I'm not coding, I enjoy watching football, keeping up with football trends, cheering for **Chelsea FC**, exploring nature photography, building things, and reading biography books to learn from inspiring life stories.
 
 ---
 
