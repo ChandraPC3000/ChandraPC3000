@@ -15,9 +15,6 @@
 
 ---
 
-[![Contributions](https://img.shields.io/badge/Contributions-1000%2B-blue)](https://github.com/ChandraPC3000)
-[![GitHub Stars](https://img.shields.io/badge/Stars-10%2B-yellow)](https://github.com/ChandraPC3000)
-
 ## ⚡ Technologies I Use
 
 ### **Programming & Data Analysis Tools:**  
