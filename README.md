@@ -25,11 +25,11 @@
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="assets/icons/cpp.png" width="65px"/>
-            <br /> C++
+            <img src="assets/icons/sql.png" width="65px"/>
+            <br /> SQL
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="assets/icons/r-logo.png" width="65px"/>
+            <img src="assets/icons/r.png" width="65px"/>
             <br /> R
         </td>
         <td align="center" width="140" height="112.43">
@@ -41,7 +41,7 @@
             <br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="assets/icons/scikit-learn.png" width="65px"/>
+            <img src="assets/icons/scikitlearn.png" width="65px"/>
             <br /> Scikit-learn
         </td>
         <td align="center" width="140" height="112.43">
