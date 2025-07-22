@@ -154,7 +154,7 @@
               <br /> Google Sheets
           </td>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/tableau.png" width="65px"/>
+              <img src="assets/icons/tableau.png" width="100px"/>
               <br /> Tableau
           </td>
           <td align="center" width="140" height="112.43">
