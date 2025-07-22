@@ -142,7 +142,7 @@
   </div>
 
 ### **Data Analysis & Visualization:** 
-  <div align="center">
+<div align="center">
   <table align="center">
       <tr>
           <td align="center" width="140" height="112.43">
@@ -166,8 +166,18 @@
               <br /> Looker Studio
           </td>
       </tr>
+      <tr>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/plotly.png" width="65px"/>
+              <br /> Plotly
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/shiny.png" width="65px"/>
+              <br /> Shiny
+          </td>
+      </tr>
   </table>
-  </div>
+</div>
 
 ---
 
