@@ -39,7 +39,7 @@
               <br /> VS Code
           </td>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/google-colab.png" width="65px"/>
+              <img src="assets/icons/colab.png" width="65px"/>
               <br /> Google Colab
           </td>
           <td align="center" width="140" height="112.43">
@@ -47,7 +47,7 @@
               <br /> Streamlit
           </td>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/rstudio.png" width="65px"/>
+              <img src="assets/icons/RStudio.png" width="65px"/>
               <br /> RStudio
           </td>
       </tr>
@@ -57,7 +57,7 @@
               <br /> SPSS
           </td>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/minitab.png" width="65px"/>
+              <img src="assets/icons/minitab.jpg" width="65px"/>
               <br /> Minitab
           </td>
           <td align="center" width="140" height="112.43">
@@ -65,7 +65,7 @@
               <br /> SAS
           </td>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/eviews.png" width="65px"/>
+              <img src="assets/icons/eviews.jpg" width="65px"/>
               <br /> Eviews
           </td>
           <td align="center" width="140" height="112.43">
