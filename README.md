@@ -183,7 +183,7 @@
 
 | ![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandraPC3000&show_icons=true&theme=radical) | [![Chandra's Streak Stats](https://streak-stats.demolab.com?user=ChandraPC3000&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPC3000&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPC3000&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Chandra's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ChandraPC3000&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
 ---
 
