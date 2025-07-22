@@ -153,7 +153,7 @@
               <br /> Excel
           </td>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/google-sheets.png" width="65px"/>
+              <img src="assets/icons/sheets.png" width="65px"/>
               <br /> Google Sheets
           </td>
           <td align="center" width="140" height="112.43">
@@ -165,7 +165,7 @@
               <br /> Power BI
           </td>
           <td align="center" width="140" height="112.43">
-              <img src="assets/icons/looker-studio.png" width="65px"/>
+              <img src="assets/icons/looker.png" width="65px"/>
               <br /> Looker Studio
           </td>
       </tr>
