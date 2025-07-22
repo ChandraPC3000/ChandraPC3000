@@ -17,40 +17,160 @@
 
 ## ⚡ Technologies I Use
 
-<div align="center">
-<table align="center">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/python.jpeg" width="65px"/>
-            <br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/sql.png" width="65px"/>
-            <br /> SQL
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/r.png" width="65px"/>
-            <br /> R
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/tensorflow.png" width="65px"/>
-            <br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/pytorch.png" width="65px"/>
-            <br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/scikitlearn.png" width="65px"/>
-            <br /> Scikit-learn
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="assets/icons/fastapi.png" width="65px"/>
-            <br /> FastAPI
-        </td>
-    </tr>
-</table>
-</div>
+### **Hard Skills:**
+- ➢ **Programming & Data Analysis Tools**:  
+  <div align="center">
+  <table align="center">
+      <tr>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/python.jpeg" width="65px"/>
+              <br /> Python
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/r-logo.png" width="65px"/>
+              <br /> R
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/sql.png" width="65px"/>
+              <br /> SQL
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/vscode.png" width="65px"/>
+              <br /> VS Code
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/google-colab.png" width="65px"/>
+              <br /> Google Colab
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/streamlit.png" width="65px"/>
+              <br /> Streamlit
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/rstudio.png" width="65px"/>
+              <br /> RStudio
+          </td>
+      </tr>
+      <tr>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/spss.png" width="65px"/>
+              <br /> SPSS
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/minitab.png" width="65px"/>
+              <br /> Minitab
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/sas.png" width="65px"/>
+              <br /> SAS
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/eviews.png" width="65px"/>
+              <br /> Eviews
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/mysql.png" width="65px"/>
+              <br /> MySQL
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/oracle.png" width="65px"/>
+              <br /> Oracle
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/sap.png" width="65px"/>
+              <br /> SAP
+          </td>
+      </tr>
+  </table>
+  </div>
+
+### **Data Science & Machine Learning:**
+- ➢ **Libraries/Tools**:  
+  <div align="center">
+  <table align="center">
+      <tr>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/scikit-learn.png" width="65px"/>
+              <br /> Scikit-learn
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/tensorflow.png" width="65px"/>
+              <br /> TensorFlow
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/pytorch.png" width="65px"/>
+              <br /> PyTorch
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/pandas.png" width="65px"/>
+              <br /> Pandas
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/numpy.png" width="65px"/>
+              <br /> NumPy
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/matplotlib.png" width="65px"/>
+              <br /> Matplotlib
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/xgboost.png" width="65px"/>
+              <br /> XGBoost
+          </td>
+      </tr>
+      <tr>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/seaborn.png" width="65px"/>
+              <br /> Seaborn
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/scipy.png" width="65px"/>
+              <br /> Scipy
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/keras.png" width="65px"/>
+              <br /> Keras
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/nltk.png" width="65px"/>
+              <br /> NLTK
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/lightgbm.png" width="65px"/>
+              <br /> LightGBM
+          </td>
+      </tr>
+  </table>
+  </div>
+
+### **Data Analysis & Visualization:**
+- ➢ **Tools**:  
+  <div align="center">
+  <table align="center">
+      <tr>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/excel.png" width="65px"/>
+              <br /> Excel
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/google-sheets.png" width="65px"/>
+              <br /> Google Sheets
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/tableau.png" width="65px"/>
+              <br /> Tableau
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/powerbi.png" width="65px"/>
+              <br /> Power BI
+          </td>
+          <td align="center" width="140" height="112.43">
+              <img src="assets/icons/looker-studio.png" width="65px"/>
+              <br /> Looker Studio
+          </td>
+      </tr>
+  </table>
+  </div>
 
 ---
 
