@@ -1,8 +1,8 @@
 # Hi there, I'm Chandra Putra Ciptaningtyas 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=ChandraPC3000&color=green)  
-[![Website](https://img.shields.io/website?label=chandrapc3000&style=for-the-badge&url=https%3A%2F%2Fchandrapc3000.netlify.app)](https://chandrapc3000.netlify.app)  
+[![Website](https://img.shields.io/website?label=chandrapc3000&style=for-the-badge&url=https%3A%2F%2Fchandra-portfolio-site.netlify.app)](https://chandra-portfolio-site.netlify.app)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-putra-ciptaningtyas/)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/ChandraPC3000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ChandraPC3000)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ciptaning.chan)
 
 ## I'm a Data Scientist, Machine Learning Enthusiast, and Developer
 
@@ -72,11 +72,25 @@
 
 ## 🖥️ My Laptop Setup
 
-- **CPU**: [Intel Core i7-10870H](https://cpu.userbenchmark.com/SpeedTest/1322918/IntelR-CoreTM-i7-10870H-CPU---220GHz)
-- **GPU**: [Nvidia RTX 3060 (Laptop)](https://gpu.userbenchmark.com/SpeedTest/1452971/NVIDIA-GeForce-RTX-3060-Laptop-GPU)
-- **SSD**: [Samsung MZVLB1T0HBLR-00007 1TB](https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007)
-- **RAM**: [Hynix HMAA2GS6AJR8N-XN 1x16GB](https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB)
-- **Laptop Model**: [Acer Predator PH315-53](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)
+**Acer Nitro 5 AN515-57 - 71CV**  
+**Display**: 15.6" FHD LED IPS 144Hz (1920x1080) Acer ComfyView™ LED-backlit TFT LCD  
+**Processor**: Intel® Core™ i7-11800H processor (24MB cache, up to 4.60Ghz)  
+**Memory**: 1x16GB DDR4  
+**Storage**: 512GB SSD NVMe  
+**Graphics**: NVIDIA® GeForce® RTX 3050 4GB GDDR6  
+**Operating System**: Windows 11 Home + Office Home and Student  
+**Networking**: Wi-Fi 6 AX201 Killer™ Ethernet E2600+ BT 5.1  
+**Battery & Power adapter**: 180W  
+**Weight**: 2.4KG  
+**Camera**: Integrated Camera  
+**Audio**: Dolby Audio Premium  
+**Ports**:  
+- 1x USB 3.2 Gen-2 featuring power-off USB charging  
+- 2x USB 3.2 Gen-1  
+- 1x HDMI® 2.0 port with HDCP support  
+- 1x USB Type-C port (up to 10 Gbps)  
+- 1x 3.5mm headphone/speaker jack  
+- 1x DC-in jack for AC adapter  
 
 ---
 
