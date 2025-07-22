@@ -165,8 +165,6 @@
               <img src="assets/icons/looker.png" width="65px"/>
               <br /> Looker Studio
           </td>
-      </tr>
-      <tr>
           <td align="center" width="140" height="112.43">
               <img src="assets/icons/plotly.png" width="65px"/>
               <br /> Plotly
